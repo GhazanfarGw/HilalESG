@@ -51,11 +51,11 @@ const TeamPage = () => {
     // Add more team members here
   ];
 
-  const seniorLeadership = [
+    const seniorLeadership = [
     {
         id: 4,
         name: "Irshad Akhtar",
-        role: "Co-Founder and Managing Partner",
+        role: "Chief Executive Officer",
         image: "./Imagesp/Irshad-Akhtar-1-354x354.png",
         description: `Irshad Akhtar, Hilal’s managing partner is an engineer, chartered accountant, corporate treasurer and an investment banker. A graduate of Imperial College, London, Irshad trained with Ernst and Young where he qualified as a Corporate Treasurer receiving the Association of Corporate Treasury and Fintech diploma at the Said Business School at the University of Oxford,\n
           Before joining Hilal, Irshad had a distinguished career in Financial Services. He both co-founded and co-led HSBC’s Investment Bank in the Kingdom of Saudi Arabia from 2005 to 2014 serving as both CFO and COO,\n 
@@ -70,7 +70,7 @@ const TeamPage = () => {
       {
         id: 5,
         name: "Zaheer Muneer",
-        role: "Co-Founder and Head of Strategy",
+        role: "Chief Investment Officer",
         image: "./Imagesp/zaheer-354x354.png",
         description: `Zaheer Muneer is an Investor, Entrepreneur, Philanthropist and Co-Founder of Hilal ESG. Well known in Middle East banking and finance circles, Zaheer was previously advisor to Saudi Excellence Co where he was involved in Saudi-German private investments of more than $560 Million.\n
           Zaheer has been involved in assisting numerous organisations in their adoption of Fintech, AI, and cybersecurity solutions. Zaheer is a past president of Great Winchester Investment Consultancy, a leading UK brokerage.`,
@@ -97,7 +97,7 @@ const TeamPage = () => {
       {
         id: 7,
         name: "Simon Bayles",
-        role: "Chief Investment Officer",
+        role: "Fund Manager",
         image: "./Imagesp/simonbayles-354x354.png",
         description: `Simon has 30 years’ experience in Asset Management, and an established expert in both traditional and alternative asset classes. Simon has run Private Equity funds as well as Fund of Funds and managed Long-only funds.\n
           He has successfully constructed 20 distinct model portfolios ranging from Passive Cautious to Alternative Dynamic Growth portfolios. His versatile skill set and wealth of experience position him as a key p[layer in the asset management sector.`,
@@ -187,7 +187,7 @@ const TeamPage = () => {
       {
         id: 13,
         name: "Rajnish Kumar",
-        role: "Chairman and Non-Executive Director",
+        role: "Advisor to the Board",
         image: "./Imagesp/rajnishkumar-354x354.png",
         description: `Rajnish Kumar is former chairman of State Bank of India. Credited with steering the bank successfully through very challenging times by successfully managing UK operations immediately after the 2008 financial crisis, he is an independent director of Hilal and also serves on the Governing Boards of a range of successful international companies.`,
         social: {
