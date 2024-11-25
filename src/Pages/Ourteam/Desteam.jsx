@@ -186,7 +186,7 @@ const TeamPage = () => {
       {
         id: 13,
         name: "Rajnish Kumar",
-        role: "Chairman and Non-Executive Director",
+        role: "Advisor to the Board",
         image: "./Imagesp/rajnishkumar-354x354.png",
         description: `Rajnish Kumar is former chairman of State Bank of India. Credited with steering the bank successfully through very challenging times by successfully managing UK operations immediately after the 2008 financial crisis, he is an independent director of Hilal and also serves on the Governing Boards of a range of successful international companies.`,
         social: {
