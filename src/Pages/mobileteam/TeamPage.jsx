@@ -98,7 +98,7 @@ const TeamPage = () => {
     {
       id: 8,
       name: "Rajnish Kumar",
-      role: "Indepent Senior Advisor",
+      role: "Independent Senior Advisor",
       image: "./Imagesp/rajnishkumar-354x354.png",
       description: `Former Chairman of State Bank of India, managing UK operations post-2008 financial crisis. and Boardoards of several successful international companies`,
       social: {
@@ -134,7 +134,7 @@ const TeamPage = () => {
     {
       id: 11,
       name: "Raihan Choudhury",
-      role: "Advisor on Special Initiative & Sovereign Wealth Funds",
+      role: "Advisor on Special Initiatives & Sovereign Wealth Funds",
       image: "./Imagesp/knowimage.png",
       description: `Shareholder and stakeholder in various initiatives, alliances, and ventures, spanning both sovereign/government and private sectors. Focus on strategic resource management, trading, PPP, and other special situations.`,
       social: {
