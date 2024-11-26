@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const TeamPage = () => {
-  const teamMembers = [
+    const teamMembers = [
     {
       id: 1,
       name: "Robert B. Gray",
@@ -18,7 +18,7 @@ const TeamPage = () => {
     {
       id: 2,
       name: "Irshad Akhtar",
-      role: "Chief Executive Officer",
+      role: "Chief Executive Officer (CEO)",
       image: "./Imagesp/Irshad-Akhtar-1-354x354.png",
       description: `Irshad is an Alumni of Imperial College, London University and Said Business School Oxford University.\n
       Irshad is a CA, Investment Banker and a Qualified Corporate Treasurer. Prior to joining Hilal, Irshad Co-founded and Co-led HSBC KSA from 2005 to 2014 as  CFO/COO. In HSBC KSA, Irshad was involved in Investment Banking, Equity brokerage, Asset Management, Custody and Advisory.\n
@@ -45,7 +45,7 @@ const TeamPage = () => {
     {
       id: 4,
       name: "Zaheer Muneer",
-      role: "Chief Strategy Officer",
+      role: "Chief Strategy Officer (CSO)",
       image: "./Imagesp/zaheer-354x354.png",
       description: `Zaheer is a professional investor specializing in growth strategies and identifying lucrative investment opportunities in both the public and private sectors.\n 
       Before joining Hilal ESG, Zaheer structured deals over $1billion. He has also assisted numerous organizations in adopting fintech, AI, and cybersecurity solutions.\n 
@@ -59,7 +59,7 @@ const TeamPage = () => {
     {
       id: 5,
       name: "Mohammed Habib Zafar",
-      role: "Chief Operations Officer",
+      role: "Chief Operations Officer (COO)",
       image: "./Imagesp/habibsareshwala-354x354.png",
       description: `With extensive experience in operations management reporting, management consulting, and controls, Habib is an established UAE corporate figure with a reputation for improving business operations.`,
       social: {
@@ -71,7 +71,7 @@ const TeamPage = () => {
     {
       id: 6,
       name: "Simon Bayles",
-      role: "Chief Investment Officer",
+      role: "Chief Investment Officer (CIO)",
       image: "./Imagesp/simonbayles-354x354.png",
       description: `Simon has 30 years’ experience in Asset Management, and an established expert in both traditional and alternative asset classes. Simon has run Private Equity funds as well as Fund of Funds and managed Long-only funds.\n
         He has successfully constructed 20 distinct model portfolios ranging from Passive Cautious to Alternative Dynamic Growth portfolios. His versatile skill set and wealth of experience position him as a key p[layer in the asset management sector.`,
@@ -84,7 +84,7 @@ const TeamPage = () => {
     {
       id: 7,
       name: "Cihan Aktas",
-      role: "Senior Advisor",
+      role: "Senior Compliance Advisor",
       image: "./Imagesp/cihan-354x354.png",
       description: `Economist and international civil servant based in Reinach, Switzerland, with over 20 years of experience in global financial stability and international financial architecture.\n
       Cihan excels in building relationships with international organizations and national authorities.`,
@@ -97,7 +97,7 @@ const TeamPage = () => {
     {
       id: 8,
       name: "Rajnish Kumar",
-      role: "Chairman and Non-Executive Director ",
+      role: "Indepent Senior Advisor",
       image: "./Imagesp/rajnishkumar-354x354.png",
       description: `Former Chairman of State Bank of India, managing UK operations post-2008 financial crisis. and Boardoards of several successful international companies`,
       social: {
@@ -121,7 +121,7 @@ const TeamPage = () => {
     {
       id: 10,
       name: "Matthew Kang",
-      role: "Non-Executive Director",
+      role: "Vice President (VP)",
       image: "./Imagesp/matthew-354x354.png",
       description: `Matthew Kang brings extensive experience in finance, investment management, and entrepreneurship to Hilal ESG. His expertise in strategic oversight, leadership, and community engagement makes him a valuable asset to the company s growth and success.`,
       social: {
@@ -132,8 +132,8 @@ const TeamPage = () => {
     },
     {
       id: 11,
-      name: "Raihan R. Choudhury",
-      role: "Advisor",
+      name: "Raihan Choudhury",
+      role: "Advisor on Special Initiative & Sovereign Wealth Funds",
       image: "./Imagesp/knowimage.png",
       description: `Shareholder and stakeholder in various initiatives, alliances, and ventures, spanning both sovereign/government and private sectors. Focus on strategic resource management, trading, PPP, and other special situations.`,
       social: {
