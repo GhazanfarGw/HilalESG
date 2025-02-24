@@ -35,7 +35,7 @@ const TeamPage = () => {
       name: "Zafar Sareshwala",
       role: "Chief Advisor",
       image: "./Imagesp/zafarfs-354x354.png",
-      description: `Mr Sareshwala is the Founder of Hilal ESG. Zafar has over 30 years of experience in the field of Stocks, Islamic Finanace and  Fund Management. In the past, Zafar founded Parsoli Corporation, a Shariah Compliant Stock brokarage Company Listed on the BSE (Bombay Stock Exchange) and set up one of the first Islamic Equity Fund in UK, regulated by FSA.\n
+      description: `Mr Sareshwala is the Chief Advisor of Hilal ESG. Zafar has over 30 years of experience in the field of Stocks, Islamic Finanace and  Fund Management. In the past, Zafar founded Parsoli Corporation, a Shariah Compliant Stock brokarage Company Listed on the BSE (Bombay Stock Exchange) and set up one of the first Islamic Equity Fund in UK, regulated by FSA.\n
       Zafar is also a leading authority  in the field of Islamic Banking and Finance and often speaks on Islamic Finance across the world.`,
       social: {
         facebook: "https://facebook.com",
