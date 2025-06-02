@@ -1,4 +1,4 @@
-timport React, { useState } from 'react';
+import React, { useState } from 'react';
 
 const Office = () => {
     return (
