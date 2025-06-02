@@ -24,7 +24,7 @@ const Footer = () => {
                             Address
                         </h1>
                         <p className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
-                            Dartmouth House, 37 Charles St, London W1J 5ED, United Kingdom
+                            2472, Al Sila Tower, ADGM, Al Maryah Island, Abu Dhabi, UAE
                         </p>
                     </div>
                     <div className='md:pt-0 pt-10'>
