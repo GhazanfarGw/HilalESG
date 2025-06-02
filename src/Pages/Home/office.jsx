@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+timport React, { useState } from 'react';
 
 const Office = () => {
     return (
@@ -57,7 +57,7 @@ const Office = () => {
                             </h1>
                             <p
                              className='text-sm text-[#777] duration-500'>
-                                7 Bell Yard, London, WC2A 2JR
+                                Dartmouth House, 37 Charles St, London W1J 5ED, United Kingdom
                             </p>
                         </div>
                     </div>
