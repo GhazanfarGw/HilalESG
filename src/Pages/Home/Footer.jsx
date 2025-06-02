@@ -1,9 +1,9 @@
-import React from 'react';
 
-const Footer = () => {
-    return (
-        <>
-        <div className='bg-[#111316]'>
+import React from "react";
+function Footer() {
+  return (
+    <>
+            <div className='bg-[#111316]'>
             <div className='max-w-screen-xl mx-auto justify-center md:pt-20 md:px-10 py-10'>
                 <h1 className='text-[#aaa] md:text-base text-sm justify-center pb-5 px-5 '>
                     Website last updated: Jan 02, 2025
@@ -81,8 +81,9 @@ const Footer = () => {
                     </a>
                 </div>
             </div>
-        </>
-    );
+        </div>
+    </>
+  );
 }
 
 export default Footer;
